@@ -1,5 +1,5 @@
 ## 🚀 Demo
-👉 Truy cập app tại đây: [https://ltweb-buoi2.onrender.com](https://ltweb-buoi2.onrender.com)
+👉 Truy cập demo tại đây: [https://ltweb-buoi2.onrender.com](https://ltweb-buoi2.onrender.com)
 
 ## 🛠️ Công nghệ sử dụng
 - Java 21
